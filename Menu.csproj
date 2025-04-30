@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\Functions.cs" />
     <Compile Include="Class\KetNoi.cs" />
     <Compile Include="Forms\frmBaocao.cs">
       <SubType>Form</SubType>
