@@ -1,2 +1,22 @@
 /.vs
 /obj
+/bin/
+/obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code directories
+.vscode/
+
+# Visual Studio working folder
+.vs/
+
+# Backup & temp
+*.tmp
+*.bak
+*.log
