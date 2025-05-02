@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace Menu.Forms
 {
-    public partial class frmBaocao : Form
+    public partial class frmLoaixe : Form
     {
-        public frmBaocao()
+        public frmLoaixe()
         {
             InitializeComponent();
         }
 
-        private void frmBaocao_Load(object sender, EventArgs e)
+        private void frmLoaixe_Load(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }

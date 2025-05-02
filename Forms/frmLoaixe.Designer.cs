@@ -1,6 +1,6 @@
 ﻿namespace Menu.Forms
 {
-    partial class frmBaocao
+    partial class frmLoaixe
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // frmBaocao
+            // frmLoaixe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "frmBaocao";
-            this.Text = "frmBaocao";
-            this.Load += new System.EventHandler(this.frmBaocao_Load);
+            this.Name = "frmLoaixe";
+            this.Text = "frmLoaixe";
+            this.Load += new System.EventHandler(this.frmLoaixe_Load);
             this.ResumeLayout(false);
 
         }

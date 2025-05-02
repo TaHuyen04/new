@@ -54,6 +54,12 @@
     <Compile Include="Forms\frmBaocao.Designer.cs">
       <DependentUpon>frmBaocao.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\frmLoaixe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoaixe.Designer.cs">
+      <DependentUpon>frmLoaixe.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +73,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>QLCH_BanXeDataSet.xsd</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Forms\frmBaocao.resx">
+      <DependentUpon>frmBaocao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoaixe.resx">
+      <DependentUpon>frmLoaixe.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
